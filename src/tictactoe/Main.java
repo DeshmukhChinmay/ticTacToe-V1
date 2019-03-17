@@ -94,7 +94,6 @@ public class Main {
                 }
             } catch (NumberFormatException e) {
                 displayError();
-                continue;
             }
 
         }

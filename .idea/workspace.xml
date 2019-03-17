@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf6ef7d5-fb3b-4835-8c2c-569572df7572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ticTacToe-V1/tictactoe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ticTacToe-V1/tictactoe/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tictactoe/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tictactoe/GameLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tictactoe/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tictactoe/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-163">
-              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               <folding>
                 <element signature="e#954#955#0" expanded="true" />
                 <element signature="e#975#976#0" expanded="true" />
@@ -141,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552805223534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552805443945" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -185,12 +182,12 @@
       <workItem from="1552283606294" duration="780000" />
       <workItem from="1552294544887" duration="2234000" />
       <workItem from="1552520757098" duration="2181000" />
-      <workItem from="1552797182023" duration="6851000" />
+      <workItem from="1552797182023" duration="7017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12046000" />
+    <option name="totallyTimeSpent" value="12212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -205,7 +202,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3369863" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5178082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42328766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tictactoe/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
           <folding>
             <element signature="e#954#955#0" expanded="true" />
             <element signature="e#975#976#0" expanded="true" />
